@@ -1,0 +1,23 @@
+# Systemowe pliki tymczasowe
+*.pyc
+__pycache__/
+*.log
+
+# Pliki wirtualnego środowiska
+venv/
+env/
+
+# Baza danych SQLite
+db.sqlite3
+
+# Pliki statyczne i generowane
+staticfiles/
+media/
+*.pot
+
+# Pliki konfiguracyjne
+*.env
+
+# Inne pliki IDE
+.idea/
+.vscode/
